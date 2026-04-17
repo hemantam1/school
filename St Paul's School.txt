@@ -1,0 +1,43 @@
+
+<figure class="wp-block-image size-full"><img src="https://elitecms.kidrovia.com/wp-content/uploads/2026/04/d17.jpg" alt="" class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-london.html">London</a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5>
+</div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5>
+</div>
+</div>
+<h1 class="wp-block-heading"><em>St Paul’s School</em></h1>
+<p>The UK's top performing boys' school</p>
+<div class="wp-block-columns"><div class="wp-block-column"><p>7-18</p>
+<h5 class="wp-block-heading">Ages</h5>
+</div>
+<div class="wp-block-column"><p>Not specified</p>
+<h5 class="wp-block-heading">Students</h5>
+</div>
+<div class="wp-block-column"><p>Not specified</p>
+<h5 class="wp-block-heading">Ratio</h5>
+</div>
+<div class="wp-block-column"><p>Not specified</p>
+<h5 class="wp-block-heading">Founded</h5>
+</div>
+</div>
+<h2 class="wp-block-heading">About <em>St Paul’s School</em></h2>
+<p>St Paul’s School is an academically selective school open to all boys, regardless of their economic or social circumstance.</p>
+<p>Financial assistance is available on a means-tested basis for families who may need support in paying school fees, with up to 100% fee remission.</p>
+
+<h3>How they teach</h3>
+<p>Mission-driven with a focus on diversity, equality, inclusion, and high performance.</p>
+
+<h3>Where students go</h3>
+<p>Not specified</p>
+
+<h4>Our Assessment</h4>
+<h2><strong>How St Paul’s School performs</strong></h2>
+
+<h3>Coaching Credentials</h3>
+<p>Not specified</p>
+
+<h3>Student Wellbeing</h3>
+<p>Not specified</p>
+
+<p><a href="Not provided" target="_blank">website link →</a></p>
