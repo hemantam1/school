@@ -1,0 +1,42 @@
+
+<figure class="wp-block-image size-full"><img src="https://www.janson-de-sailly.fr/wp-content/uploads/2017/09/JS_article_rentree-1.png" alt="Lycée Janson de Sailly" class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-paris.html">Paris</a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5></div></div>
+<h1 class="wp-block-heading"><em>Lycée Janson de Sailly</em></h1>
+<p>Lycée Janson de Sailly is a prestigious educational institution located in the heart of Paris, known for its rich history and commitment to academic excellence. Established in 1884, the school is renowned for its robust academic programs and offers a...</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><p>11-21</p><h5 class="wp-block-heading">Ages</h5></div>
+<div class="wp-block-column"><p>1:15</p><h5 class="wp-block-heading">Ratio</h5></div>
+<div class="wp-block-column"><p>1884</p><h5 class="wp-block-heading">Founded</h5></div>
+</div>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><h2 class="wp-block-heading">About <em>Lycée Janson de Sailly</em></h2><p>Lycée Janson de Sailly is a prestigious educational institution located in the heart of Paris, known for its rich history and commitment to academic excellence. Established in 1884, the school is renowned for its robust academic programs and offers a comprehensive curriculum from middle school (collège) to preparatory classes for higher education (CPGE). Janson de Sailly prides itself on providing a dynamic learning environment with a wide range of extracurricular activities, promoting both intellectual and personal development for its students.</p></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><h5 class="wp-block-heading">Institution Details</h5>
+<div class="wp-block-columns"><div class="wp-block-column">
+<h5 class="wp-block-heading">Type</h5><h5 class="wp-block-heading">Ages</h5><h5 class="wp-block-heading">Ratio</h5><h5 class="wp-block-heading">Founded</h5><h5 class="wp-block-heading">City</h5><h5 class="wp-block-heading">Annual fee</h5>
+</div><div class="wp-block-column">
+<h5 class="wp-block-heading">Private Preparatory School</h5><h5 class="wp-block-heading">11-21</h5><h5 class="wp-block-heading">1:15</h5><h5 class="wp-block-heading">1884</h5><h5 class="wp-block-heading">Paris</h5><h5 class="wp-block-heading">Free (public school)</h5>
+</div></div>
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<h5 class="wp-block-heading"><a href="https://janson-de-sailly.fr" target="_blank" rel="noreferrer noopener">janson-de-sailly.fr →</a></h5>
+</div></div>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h5 class="wp-block-heading">Philosophy</h5><h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3><p>The teaching philosophy at Lycée Janson de Sailly revolves around nurturing critical thinking, creativity, and autonomy among students. With an emphasis on excellence rooted in the values of the French Republic, the school seeks to prepare students not only for academic success but also for responsible citizenship in a global society. By integrating innovative teaching methods with traditional values, Janson de Sailly strives to cultivate a supportive and challenging educational environment.</p></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Outcomes</h5><h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3><p>Graduates from Lycée Janson de Sailly often pursue further studies at some of the most prestigious universities in France and abroad, including Grandes Écoles and internationally recognized institutions. The rigorous preparatory programs (CPGE) are designed to equip students with the skills required for success in competitive entrance exams, paving the way for careers in fields such as engineering, law, science, and humanities.</p></div>
+</div>
+<h4 class="wp-block-heading">Our Assessment</h4>
+<h2 class="wp-block-heading"><strong>How Lycée Janson de Sailly performs</strong></h2>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h3 class="wp-block-heading">Coaching Credentials</h3><p>Lycée Janson de Sailly boasts a team of highly qualified educators who are experts in their respective fields, dedicated to student achievement.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Student Wellbeing</h3><p>The school prioritizes the well-being of its students by providing a supportive environment with access to counseling services and extracurricular activities aimed at fostering a balanced lifestyle.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Academic Integration</h3><p>Students at Janson de Sailly benefit from a curriculum that is well-integrated with both national and international standards, ensuring a comprehensive education.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Competitive Pathway</h3><p>The array of preparatory courses offered positions students to excel in competitive university admissions, particularly in the French Grandes Écoles system.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Facilities & Resources</h3><p>The institution is equipped with modern facilities, including advanced science labs and rich library resources, which support an effective learning experience.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Ongoing Accountability</h3><p>Janson de Sailly maintains a culture of accountability through regular assessments and feedback mechanisms, ensuring that both teaching quality and student performance are continually improving.</p></div>
+</div><div class="wp-block-columns"><div class="wp-block-column"><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><p>Prospective students must apply through the standard French educational system procedures, which often require submission of previous academic records, recommendation letters, and a personal statement outlining their interests and motivations. Specific admission processes are set for different sections, including the international and preparatory classes. It is essential for applicants to attend orientation meetings and comply with deadlines for submission of all required documents.</p></div>
+<div class="wp-block-column">
+<h5 class="wp-block-heading">Enquiries Open</h5><p>Year-round</p>
+<h5 class="wp-block-heading">Annual Fee</h5><p>Free (public school)</p>
+<h5 class="wp-block-heading">Location</h5><p>Paris</p>
+<h5 class="wp-block-heading">Website</h5><p><a href="https://janson-de-sailly.fr">janson-de-sailly.fr</a></p>
+</div></div>

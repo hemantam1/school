@@ -1,0 +1,42 @@
+
+<figure class="wp-block-image size-full"><img src="https://elitecms.kidrovia.com/wp-content/uploads/2026/04/default.jpg" alt="Redirecting..." class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-redirecting.html">Redirecting</a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5></div></div>
+<h1 class="wp-block-heading"><em>Redirecting...</em></h1>
+<p>Redirecting School offers an immersive educational experience tailored to developing well-rounded, capable individuals. Nestled in the heart of the city, the school prides itself on a rich history of academic excellence and community involvement. Our...</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><p>3-18</p><h5 class="wp-block-heading">Ages</h5></div>
+<div class="wp-block-column"><p>1:10</p><h5 class="wp-block-heading">Ratio</h5></div>
+<div class="wp-block-column"><p>1995</p><h5 class="wp-block-heading">Founded</h5></div>
+</div>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><h2 class="wp-block-heading">About <em>Redirecting...</em></h2><p>Redirecting School offers an immersive educational experience tailored to developing well-rounded, capable individuals. Nestled in the heart of the city, the school prides itself on a rich history of academic excellence and community involvement. Our dedicated staff and diverse curriculum ensure that every student receives a personalized education experience that caters to both their academic and extracurricular interests. We emphasize not only scholastic achievement but also the cultivation of strong ethical values and leadership qualities. The school offers a vast array of clubs, sports, and arts programs to choose from, fostering an environment where students can discover their passions. Small class sizes, state-of-the-art facilities, and a collaborative approach to teaching ensure that students are engaged and consistently reaching their potential.</p></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><h5 class="wp-block-heading">Institution Details</h5>
+<div class="wp-block-columns"><div class="wp-block-column">
+<h5 class="wp-block-heading">Type</h5><h5 class="wp-block-heading">Ages</h5><h5 class="wp-block-heading">Ratio</h5><h5 class="wp-block-heading">Founded</h5><h5 class="wp-block-heading">City</h5><h5 class="wp-block-heading">Annual fee</h5>
+</div><div class="wp-block-column">
+<h5 class="wp-block-heading">Private Preparatory School</h5><h5 class="wp-block-heading">3-18</h5><h5 class="wp-block-heading">1:10</h5><h5 class="wp-block-heading">1995</h5><h5 class="wp-block-heading">Redirecting</h5><h5 class="wp-block-heading">£15,000</h5>
+</div></div>
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<h5 class="wp-block-heading"><a href="https://alsacienne.org" target="_blank" rel="noreferrer noopener">alsacienne.org →</a></h5>
+</div></div>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h5 class="wp-block-heading">Philosophy</h5><h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3><p>The philosophy at Redirecting School focuses on holistic education, blending traditional teaching methods with innovative approaches to learning. Teachers are seen as facilitators, guiding students through a discovery-based approach to learning that encourages curiosity and independent thought. The school believes in developing a student's ability to think critically and creatively, preparing them for the dynamic and ever-changing future. Programs are designed to be engaging and challenging, ensuring students are both supported and inspired to achieve personal success.</p></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Outcomes</h5><h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3><p>Students from Redirecting School often pursue higher education at prestigious universities around the world. Our alumni network exhibits an impressive track record of entering competitive fields such as medicine, engineering, business, and the arts. Graduates from Redirecting School leave with not only a solid academic foundation but also the soft skills necessary for adapting and thriving in diverse work environments. The emphasis on critical thinking, leadership, and global awareness ensures our students are well-prepared for their future careers.</p></div>
+</div>
+<h4 class="wp-block-heading">Our Assessment</h4>
+<h2 class="wp-block-heading"><strong>How Redirecting... performs</strong></h2>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h3 class="wp-block-heading">Coaching Credentials</h3><p>The faculty is comprised of experts in their respective fields, bringing years of experience and dedication to student development.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Student Wellbeing</h3><p>The school places a strong emphasis on student wellbeing, offering extensive support services and a nurturing environment.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Academic Integration</h3><p>Curriculum integration is seamless, providing a cohesive educational journey that aligns with modern educational standards.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Competitive Pathway</h3><p>Students are prepared to excel in competitive settings, with numerous opportunities for academic and extracurricular advancement.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Facilities & Resources</h3><p>State-of-the-art facilities and resources ensure that students have access to the best tools for learning and discovery.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Ongoing Accountability</h3><p>The school maintains high standards through regular assessments and feedback loops to ensure continuous improvement.</p></div>
+</div><div class="wp-block-columns"><div class="wp-block-column"><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><p>The admissions process at Redirecting School is designed to identify students who will thrive in our educational environment. Prospective students and their families begin by submitting an online application which includes academic records, a personal statement, and references. Following the application review, selected candidates are invited for an interview and assessment to gauge their fit within the school’s philosophy and community. Offers are extended based on the results of this comprehensive assessment, and successful applicants are then guided through the onboarding process prior to the start of the academic year.</p></div>
+<div class="wp-block-column">
+<h5 class="wp-block-heading">Enquiries Open</h5><p>Year-round</p>
+<h5 class="wp-block-heading">Annual Fee</h5><p>£15,000</p>
+<h5 class="wp-block-heading">Location</h5><p>Redirecting</p>
+<h5 class="wp-block-heading">Website</h5><p><a href="https://alsacienne.org">alsacienne.org</a></p>
+</div></div>

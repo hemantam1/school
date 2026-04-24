@@ -1,0 +1,42 @@
+
+<figure class="wp-block-image size-full"><img src="https://sciencespo.fr/fr/static/f60a7aab415322cb848362cfe042022d/3bda7/sciencespo_cta_27_rsg_1_darkred_70bc625019.jpg" alt="Accueil " class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-.html"></a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5></div></div>
+<h1 class="wp-block-heading"><em>Accueil </em></h1>
+<p>...</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><p></p><h5 class="wp-block-heading">Ages</h5></div>
+<div class="wp-block-column"><p></p><h5 class="wp-block-heading">Ratio</h5></div>
+<div class="wp-block-column"><p></p><h5 class="wp-block-heading">Founded</h5></div>
+</div>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><h2 class="wp-block-heading">About <em>Accueil </em></h2><p></p></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><h5 class="wp-block-heading">Institution Details</h5>
+<div class="wp-block-columns"><div class="wp-block-column">
+<h5 class="wp-block-heading">Type</h5><h5 class="wp-block-heading">Ages</h5><h5 class="wp-block-heading">Ratio</h5><h5 class="wp-block-heading">Founded</h5><h5 class="wp-block-heading">City</h5><h5 class="wp-block-heading">Annual fee</h5>
+</div><div class="wp-block-column">
+<h5 class="wp-block-heading">Private Preparatory School</h5><h5 class="wp-block-heading"></h5><h5 class="wp-block-heading"></h5><h5 class="wp-block-heading"></h5><h5 class="wp-block-heading"></h5><h5 class="wp-block-heading"></h5>
+</div></div>
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<h5 class="wp-block-heading"><a href="https://sciencespo.fr" target="_blank" rel="noreferrer noopener">sciencespo.fr →</a></h5>
+</div></div>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h5 class="wp-block-heading">Philosophy</h5><h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3><p></p></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Outcomes</h5><h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3><p></p></div>
+</div>
+<h4 class="wp-block-heading">Our Assessment</h4>
+<h2 class="wp-block-heading"><strong>How Accueil  performs</strong></h2>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h3 class="wp-block-heading">Coaching Credentials</h3><p></p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Student Wellbeing</h3><p></p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Academic Integration</h3><p></p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Competitive Pathway</h3><p></p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Facilities & Resources</h3><p></p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Ongoing Accountability</h3><p></p></div>
+</div><div class="wp-block-columns"><div class="wp-block-column"><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><p></p></div>
+<div class="wp-block-column">
+<h5 class="wp-block-heading">Enquiries Open</h5><p>Year-round</p>
+<h5 class="wp-block-heading">Annual Fee</h5><p></p>
+<h5 class="wp-block-heading">Location</h5><p></p>
+<h5 class="wp-block-heading">Website</h5><p><a href="https://sciencespo.fr">sciencespo.fr</a></p>
+</div></div>

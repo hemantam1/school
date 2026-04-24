@@ -1,0 +1,42 @@
+
+<figure class="wp-block-image size-full"><img src="https://elitecms.kidrovia.com/wp-content/uploads/2026/04/default.jpg" alt="Institut Catholique de Paris - ICP" class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-paris.html">Paris</a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5></div></div>
+<h1 class="wp-block-heading"><em>Institut Catholique de Paris - ICP</em></h1>
+<p>The Institut Catholique de Paris (ICP) is a prestigious higher education institution founded in 1875. It offers a variety of programs distributed across its faculties, institutes, and schools. Known for its commitment to academic excellence, the ICP ...</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><p>18-25</p><h5 class="wp-block-heading">Ages</h5></div>
+<div class="wp-block-column"><p>1:11</p><h5 class="wp-block-heading">Ratio</h5></div>
+<div class="wp-block-column"><p>1875</p><h5 class="wp-block-heading">Founded</h5></div>
+</div>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><h2 class="wp-block-heading">About <em>Institut Catholique de Paris - ICP</em></h2><p>The Institut Catholique de Paris (ICP) is a prestigious higher education institution founded in 1875. It offers a variety of programs distributed across its faculties, institutes, and schools. Known for its commitment to academic excellence, the ICP provides a rich and diverse learning environment that fosters the intellectual, professional, and personal growth of its students. The institution is renowned for integrating ethical considerations and sustainable practices into its curriculum, particularly in fields like humanities, social sciences, and theology.</p></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><h5 class="wp-block-heading">Institution Details</h5>
+<div class="wp-block-columns"><div class="wp-block-column">
+<h5 class="wp-block-heading">Type</h5><h5 class="wp-block-heading">Ages</h5><h5 class="wp-block-heading">Ratio</h5><h5 class="wp-block-heading">Founded</h5><h5 class="wp-block-heading">City</h5><h5 class="wp-block-heading">Annual fee</h5>
+</div><div class="wp-block-column">
+<h5 class="wp-block-heading">Private Preparatory School</h5><h5 class="wp-block-heading">18-25</h5><h5 class="wp-block-heading">1:11</h5><h5 class="wp-block-heading">1875</h5><h5 class="wp-block-heading">Paris</h5><h5 class="wp-block-heading">€5,000-€10,000</h5>
+</div></div>
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<h5 class="wp-block-heading"><a href="https://icp.fr" target="_blank" rel="noreferrer noopener">icp.fr →</a></h5>
+</div></div>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h5 class="wp-block-heading">Philosophy</h5><h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3><p>The ICP’s teaching philosophy is centered around critical thinking and personal development. It emphasizes the importance of ethical considerations, social responsibility, and international perspectives in shaping well-rounded students. The institution fosters an environment of inclusion and respect, encouraging students to engage with diverse worldviews and complex global challenges.</p></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Outcomes</h5><h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3><p>Graduates from the ICP find opportunities in a wide range of fields including academia, business, government, and non-profit organizations. The university's strong focus on ethics and internationalization prepares students to pursue further studies at top-tier universities worldwide or embark on careers where critical thinking and cultural awareness are paramount. Alumni often take leadership roles in their sectors, leveraging the ICP’s widespread network and reputation.</p></div>
+</div>
+<h4 class="wp-block-heading">Our Assessment</h4>
+<h2 class="wp-block-heading"><strong>How Institut Catholique de Paris - ICP performs</strong></h2>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h3 class="wp-block-heading">Coaching Credentials</h3><p>The ICP has a robust academic coaching system, ensuring students receive guidance tailored to their individual needs and aspirations.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Student Wellbeing</h3><p>The university provides comprehensive support services, including counseling and wellness programs, promoting a balanced and supportive environment.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Academic Integration</h3><p>The institution’s curriculum is well-integrated with practical experiences, ensuring students can apply theoretical knowledge to real-world scenarios.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Competitive Pathway</h3><p>ICP offers a competitive educational pathway with opportunities for internships and international exchanges, which prepare students for the global job market.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Facilities & Resources</h3><p>State-of-the-art facilities and extensive library resources support the vibrant academic community and facilitate cutting-edge research.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Ongoing Accountability</h3><p>Continuous assessment mechanisms ensure that ICP maintains high educational standards, aligning with global academic benchmarks.</p></div>
+</div><div class="wp-block-columns"><div class="wp-block-column"><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><p>The admissions process at ICP requires applicants to submit an online application through their portal. This includes providing academic transcripts, a personal statement, and letters of recommendation. Depending on the program, there could be additional requirements such as entrance exams or interviews. Prospective students are encouraged to attend open day events and engage with the admissions office to gain further insights into the specific program requirements.</p></div>
+<div class="wp-block-column">
+<h5 class="wp-block-heading">Enquiries Open</h5><p>Year-round</p>
+<h5 class="wp-block-heading">Annual Fee</h5><p>€5,000-€10,000</p>
+<h5 class="wp-block-heading">Location</h5><p>Paris</p>
+<h5 class="wp-block-heading">Website</h5><p><a href="https://icp.fr">icp.fr</a></p>
+</div></div>

@@ -1,0 +1,42 @@
+
+<figure class="wp-block-image size-full"><img src="https://images.prismic.io/fft-rg-site/27c83e3b-c15f-4b07-b354-50d6d5d16531_bnpparibas.png?auto=compress,format&rect=16,0,523,285&w=176&h=96" alt="Roland-Garros 2026 - Le site officiel" class="wp-image-440"/></figure>
+<p><a href="elite-home.html"><br>Elite</a>› <a href="elite-city-paris.html">Paris</a>› <a href="elite-program-sports-academies.html">Elite Academic Enrichment</a></p>
+<div class="wp-block-columns"><div class="wp-block-column"><h5 class="wp-block-heading">Kidrovia Elite — Listed</h5></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Elite Academic Programs</h5></div></div>
+<h1 class="wp-block-heading"><em>Roland-Garros 2026 - Le site officiel</em></h1>
+<p>The Roland-Garros School, named after the famous French aviator and celebrated through the world-renowned tennis tournament, is a symbolic institution that integrates sports and education. Known for hosting one of the four Grand Slam tennis champions...</p>
+<div class="wp-block-columns">
+<div class="wp-block-column"><p>N/A</p><h5 class="wp-block-heading">Ages</h5></div>
+<div class="wp-block-column"><p>N/A</p><h5 class="wp-block-heading">Ratio</h5></div>
+<div class="wp-block-column"><p>1928</p><h5 class="wp-block-heading">Founded</h5></div>
+</div>
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:66.66%"><h2 class="wp-block-heading">About <em>Roland-Garros 2026 - Le site officiel</em></h2><p>The Roland-Garros School, named after the famous French aviator and celebrated through the world-renowned tennis tournament, is a symbolic institution that integrates sports and education. Known for hosting one of the four Grand Slam tennis championships, the school-like atmosphere fosters a connection between academic excellence and athletic prowess. The official site of Roland-Garros provides information about events, scheduling, and opportunities within the tennis tournament structure. The event attracts a diverse audience worldwide, enhancing cultural exchange and sporting spirit.</p></div>
+<div class="wp-block-column" style="flex-basis:33.33%"><h5 class="wp-block-heading">Institution Details</h5>
+<div class="wp-block-columns"><div class="wp-block-column">
+<h5 class="wp-block-heading">Type</h5><h5 class="wp-block-heading">Ages</h5><h5 class="wp-block-heading">Ratio</h5><h5 class="wp-block-heading">Founded</h5><h5 class="wp-block-heading">City</h5><h5 class="wp-block-heading">Annual fee</h5>
+</div><div class="wp-block-column">
+<h5 class="wp-block-heading">Private Preparatory School</h5><h5 class="wp-block-heading">N/A</h5><h5 class="wp-block-heading">N/A</h5><h5 class="wp-block-heading">1928</h5><h5 class="wp-block-heading">Paris</h5><h5 class="wp-block-heading">N/A</h5>
+</div></div>
+<h5 class="wp-block-heading">Contact &amp; Enquiry</h5>
+<h5 class="wp-block-heading"><a href="https://rolandgarros.com" target="_blank" rel="noreferrer noopener">rolandgarros.com →</a></h5>
+</div></div>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h5 class="wp-block-heading">Philosophy</h5><h3 class="wp-block-heading">How they&nbsp;<em>teach</em></h3><p>Roland-Garros emphasizes the blend of athletic training with educational elements, catering to those who aspire for excellence in both domains. The teaching style celebrates resilience, discipline, and strategic thinking inherent in professional tennis, providing students with life skills that transcend beyond the sport.</p></div>
+<div class="wp-block-column"><h5 class="wp-block-heading">Outcomes</h5><h3 class="wp-block-heading">Where students&nbsp;<em>go</em></h3><p>Students and participants at Roland-Garros often transition to celebrated tennis careers, with many continuing onto prestigious tournaments globally. The exposure and experiences gained at Roland-Garros equip individuals to excel not only in sports but also in pursuing higher education, particularly in sports management or related fields.</p></div>
+</div>
+<h4 class="wp-block-heading">Our Assessment</h4>
+<h2 class="wp-block-heading"><strong>How Roland-Garros 2026 - Le site officiel performs</strong></h2>
+<div class="wp-block-columns">
+<div class="wp-block-column"><h3 class="wp-block-heading">Coaching Credentials</h3><p>Roland-Garros hosts some of the most experienced and talented coaches in the tennis world.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Student Wellbeing</h3><p>High priority is given to the health and wellbeing of all participants, ensuring a supportive environment.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Academic Integration</h3><p>Efforts are made to integrate academic learning alongside professional sports training effectively.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Competitive Pathway</h3><p>The school offers a comprehensive pathway for competitive tennis, evident through its Grand Slam hosting.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Facilities & Resources</h3><p>World-class facilities ensure that participants have access to top-notch resources and training grounds.</p></div>
+<div class="wp-block-column"><h3 class="wp-block-heading">Ongoing Accountability</h3><p>Continuous assessment and feedback mechanisms are in place to uphold standards and improve performance.</p></div>
+</div><div class="wp-block-columns"><div class="wp-block-column"><h2 class="wp-block-heading">Admissions &amp;<br><em>How to Apply</em></h2><p>Admission to programs associated with Roland-Garros typically involves a selection process that evaluates potential based on athletic ability, discipline, and commitment to the sport. Applications are usually submitted online through the official Roland-Garros website, with additional supporting materials such as previous sports achievements and endorsements from coaches.</p></div>
+<div class="wp-block-column">
+<h5 class="wp-block-heading">Enquiries Open</h5><p>Year-round</p>
+<h5 class="wp-block-heading">Annual Fee</h5><p>N/A</p>
+<h5 class="wp-block-heading">Location</h5><p>Paris</p>
+<h5 class="wp-block-heading">Website</h5><p><a href="https://rolandgarros.com">rolandgarros.com</a></p>
+</div></div>
